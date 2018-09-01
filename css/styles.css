@@ -427,6 +427,7 @@ header {
   margin-bottom: 20px;
   text-align: center;
   width: 435px;
+  cursor: pointer;
 }
 
 .name2 p {
