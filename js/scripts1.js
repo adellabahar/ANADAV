@@ -7,7 +7,6 @@ var imagesArr = [
   'images/slide4.png',
   'images/two.png',
   'images/1.jpg',
-  'images/slide6.png'
    
 ]
 
