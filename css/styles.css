@@ -427,7 +427,6 @@ header {
   margin-bottom: 20px;
   text-align: center;
   width: 435px;
-  cursor: pointer;
 }
 
 .name2 p {
@@ -809,6 +808,11 @@ figure.effect-news:hover p {
   padding-bottom: 20px;
 }
 
+.potm h2 {
+  text-align: center;
+  margin-top: 20px;
+}
+
 .potm {
   text-align: center;
 }
@@ -847,6 +851,8 @@ figure.effect-news:hover p {
   border-bottom: solid .2px #A9A9A9;
   padding-bottom: 20px;
   margin-bottom: 20px;
+  cursor: pointer;
+
 }
 
 .name2 p {
@@ -888,14 +894,6 @@ footer p {
 }
 
 
-
-/*For Mobile Phones*/
-/*@media (max-width: 667px) {
-
-
-}
-*/
-
 #scene {
     width: 435px;
     height:600px;
@@ -910,6 +908,8 @@ footer p {
     left:-3%;
     top:-3%;
 }
+
+
 
 
 
